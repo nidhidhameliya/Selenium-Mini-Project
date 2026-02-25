@@ -71,4 +71,7 @@ This project showcases practical skills in:
 
 It provides a scalable framework for collecting and analyzing eCommerce product data.
 
+<img width="1317" height="736" alt="dashboard" src="https://github.com/user-attachments/assets/c8ebea99-d0fb-494c-b5dd-f91347c4e81c" />
+
+
 
